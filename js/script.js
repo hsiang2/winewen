@@ -53,7 +53,7 @@ $(document).ready(function(){
     $("#icon-ig").mouseenter(function(){
         $("#icon-ig").attr("src", "img/icon_ig-hover.png");
     }).mouseleave(function(){
-        $("#icon-ig").attr("src", "../img/icon_ig.png");
+        $("#icon-ig").attr("src", "img/icon_ig.png");
     });
 
 });
